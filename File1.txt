@@ -1,2 +1,4 @@
-Initial line1
+Initial line1 and new text
+Initial line2
 Initial line3
+
